@@ -41,6 +41,7 @@ I wanted to flatten and understand all the properties of the Cloud Native Applic
 
 ```
 Actions, Additionals, All, ANIs, Applies, Arrays, Booleans, Bundles, Claims, Comments, Components, Constants, Contains, Contents, Created, Credentials, Customs, Defaults, Definitions, Dependencies, Descriptions, Destinations, Digests, Elses, Emails, Encodings, Enums, Environments, Examples, Exclusives, Extensions, Formats, IDs, If, Images, Installations, Integers, Invocations, Items, Keywords, Labels, Lengths, Licenses, Maintainers, Mappings, Maximums, Medias, Messages, Metas, Mins, Minimums, Multiples, Names, Negatives, Nons, Nots, Objects, Ofs, Ones, Outputs, Parameters, Paths, Patterns, Prereleases, Priorities, Properties, Ranges, Reads, References, Relocations, Requireds, Requires, Results, Revisions, Schemas, Sequences, Simples, Sizes, Sources, Statuses, Strings, Thens, Titles, Tos, Types, Uniques, Unknowns, Urls, Versions
+
 ```
 
 ## Open Component Model
