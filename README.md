@@ -39,7 +39,7 @@ I wanted to be able to understand how the Cloud Native Application Bundle specif
 ### Specification Properties:
 I wanted to flatten and understand all the properties of the Cloud Native Application Bundle specification.
 
-- AActions
+- Actions
 - Additionals
 - All
 - ANIs
