@@ -1,0 +1,61 @@
+aid: score
+name: Score
+type: Index
+description: |-
+  Score is a developer-centric and platform-agnostic workload specification. It ensures consistent configuration between local and remote environments.
+tags:
+  - Applications
+created: '2025-12-17'
+modified: '2025-12-17'
+url: https://github.com/naftiko-capabilities/applications/blob/main/indexes/score.yml
+specificationVersion: '0.19'
+
+common:
+
+  - type: CNCFProject
+    url: https://www.cncf.io/projects/score/
+  - type: Website
+    url: https://score.dev/
+  - type: Blog
+    url: https://score.dev/blog/
+  - type: GettingStarted
+    url: https://score.dev/get-started/
+  - type: Community
+    url: https://docs.score.dev/docs/community/
+  - type: Linting  
+    url: https://docs.score.dev/docs/score-specification/ide-linter-autocomplete/
+  - type: Specification
+    url: https://docs.score.dev/docs/score-specification/score-spec-reference/
+  - type: Implementations
+    url: https://docs.score.dev/docs/score-implementation/
+  - type: Examples
+    url: https://docs.score.dev/docs/examples/
+  - type: Guides
+    url: https://docs.score.dev/docs/how-to/
+  - type: CommunityMeetings
+    url: https://github.com/score-spec/spec?tab=readme-ov-file#-get-in-touch
+  - type: Slack Channel
+    url: https://cloud-native.slack.com/archives/C07DN0D1UCW
+  - type: GitHubOrganization
+    url: https://github.com/score-spec
+  - type: GitHubRepository
+    url: https://github.com/score-spec/spec
+  - type: Adopters
+    url: https://github.com/score-spec/spec/blob/main/ADOPTERS.md
+  - type: Governance
+    url: https://github.com/score-spec/spec/blob/main/GOVERNANCE.md
+  - type: Contributing
+    url: https://github.com/score-spec/spec/blob/main/CONTRIBUTING.md
+  - type: License
+    url: https://github.com/score-spec/spec/blob/main/LICENSE
+  - type: RoadMap
+    url: https://github.com/score-spec/spec/blob/main/roadmap.md
+  - type: JSONSchema
+    url: https://github.com/score-spec/spec/blob/main/score-v1b1.json
+  - type: PlatformEngineering
+    url: https://platformengineering.org/tools/score  
+
+maintainers:
+
+  - FN: Kin Lane
+    email: info@apievangelist.com

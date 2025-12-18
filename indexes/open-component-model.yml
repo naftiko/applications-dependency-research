@@ -1,0 +1,57 @@
+aid: open-component-model
+name: Open Component Model
+type: Index
+description: |-
+  The Open Component Model (OCM) is an open standard that enables teams to describe software artifacts and their lifecycle metadata in a consistent, technology-agnostic way. It’s built to support secure, reliable delivery and deployment of software—across cloud, on-prem, hybrid, and even air-gapped environments.
+tags:
+  - Applications
+created: '2025-12-17'
+modified: '2025-12-17'
+url: https://github.com/naftiko-capabilities/applications/blob/main/indexes/open-component-model.yml
+specificationVersion: '0.19'
+
+common:
+
+  - type: Website
+    url: https://ocm.software/
+  - type: Documentation
+    url: https://ocm.software/docs/
+  - type: GettingStarted
+    url: https://ocm.software/docs/getting-started/
+  - type: Concepts
+    url: https://ocm.software/docs/concepts/
+  - type: Tutorials
+    url: https://ocm.software/docs/tutorials/
+  - type: GitHubOrganization
+    url: https://github.com/open-component-model
+  - type: GitHubRepository
+    url: https://github.com/open-component-model/ocm-spec
+  - type: Schema
+    url: https://github.com/open-component-model/ocm-website/tree/main/static/schemas
+  - type: CLI
+    url: https://ocm.software/docs/reference/ocm-cli/
+  - type: DevelopmentVersion
+    url: https://ocm.software/dev/
+  - type: DefaultVersion
+    url: https://ocm.software/
+  - type: Community
+    url: https://ocm.software/community/engagement/
+  - type: Slack
+    url: https://kubernetes.slack.com/archives/C05UWBE8R1D
+  - type: CommunityMeetings
+    url: https://ocm.software/community/engagement/#schedule
+  - type: Contributing
+    url: https://github.com/open-component-model/ocm-spec/blob/main/CONTRIBUTING.md
+  - type: License
+    url: https://github.com/open-component-model/ocm-spec/blob/main/LICENSE
+  - type: Road Map
+    url: https://github.com/orgs/open-component-model/projects/10/views/5
+  - type: Security
+    url: https://github.com/open-component-model/.github/blob/main/SECURITY.md
+
+maintainers:
+
+  - FN: Kin Lane
+    email: info@apievangelist.com
+
+
