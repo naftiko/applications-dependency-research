@@ -68,3 +68,5 @@ I will be continuing this work with an emphasis on the [interface specifications
 
 ## Support
 If you have any questions or have any comments please submit an issue or email kinlane@naftiko.io, and I am happy to answer any questions or point you to other resources.
+
+![XKCD](xkcd.png "XKCD")
